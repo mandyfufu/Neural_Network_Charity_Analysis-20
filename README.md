@@ -8,12 +8,12 @@ Data processing -
 The target variable is ‘IS_SUCCESSFUL’
 
 The features variables are:
-STATUS
-ASK_AMT
-APPLICATION_TYPE
-INCOME_AMT
-SPECIAL_CONSIDERATIONS
-USE_CASE
+STATUS,
+ASK_AMT,
+APPLICATION_TYPE,
+INCOME_AMT,
+SPECIAL_CONSIDERATIONS,
+USE_CASE, and
 AFFILIATION
 
 The variables that are not targets or features are ‘EIN’ and ‘NAME’ and both are removed.
